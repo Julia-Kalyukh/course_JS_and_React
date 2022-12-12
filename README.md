@@ -1,4 +1,4 @@
-# 📌 page_food
+# 📌 food delivery
 *Лендинг доставки правильного питания*
 
 ### [Demo ▻](https://small-tasks.yuliyakalyukh.ru/page_food/index.html)
